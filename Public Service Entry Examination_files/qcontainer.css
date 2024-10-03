@@ -1,0 +1,49 @@
+.q-indicator-notseen {
+    float: left;
+    padding: 5px;
+    border: 1px solid #171e5f;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.q-indicator-seen {
+    float: left;
+    background: rgb(230, 193, 33);
+    padding: 5px;
+    border: 1px solid #171e5f;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.q-indicator-error {
+    float: left;
+    background: rgb(255, 87, 51);
+    padding: 5px;
+    border: 1px solid #171e5f;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    
+}
+
+.q-indicator-view {
+    float: left;
+    background: rgb(255, 0, 0);
+    padding: 5px;
+    border: 1px solid #171e5f;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.q-indicator-answered {
+    float: left;
+    background: rgb(20, 110, 20);
+    padding: 5px;
+    border: 1px solid #171e5f;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}

@@ -1,0 +1,28 @@
+.login-input {
+    width: 300px;
+    padding: 13px;
+    font-size: 14px;
+    border: 1px solid #171e5f;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.login-button {
+    width: 326px;
+    padding: 13px;
+    font-size: 14px;
+    background: #1d2573;
+    border: 1px solid #171e5f;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.login-button:hover {
+    background: #204b16;
+    border: 1px solid #1a4c0f;
+}
